@@ -1,19 +1,26 @@
+/* 9a */
 .kotak-merah {
      width: 100px;
      height: 100px;
      background-color: red;
 }
+
+/* 9b */
 .circle-hijau {
      width: 100px;
      height: 100px;
      border-radius: 50%;
      background-color: green;
 }
+
+/* 9c */
 .kartu {
     border: 1px solid gray;
     padding: 15px;
     width: 250px
 }
+
+/* 9d */
 .youtube {
     border: 1px solid gray;
     background-color: black;
@@ -32,6 +39,8 @@
     font-size: 13px;
     color:gray;
 }
+
+/* 9e */
 .card-tweet {
     border: 1px solid gray;
     padding: 10px;
@@ -59,6 +68,8 @@
     padding: 8px 15px;
     border-radius: 20px;
 }
+
+/* 9f */
 .card-profile {
     width: 150px;
     border: 1px solid #ccc;
@@ -78,6 +89,8 @@
     border: none;
     padding: 8px 15px;
 }
+
+/* 9g */
 .def {
     font-weight: bold;
     font-family: Arial;
@@ -92,6 +105,8 @@
     text-align: left;
     margin-right: 10px;
 }
+
+/* 9h */
 .google {
     text-align: center;
     margin: 10px

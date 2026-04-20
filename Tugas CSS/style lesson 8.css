@@ -1,3 +1,4 @@
+/* 8a */
 .input1 {
     padding: 5px;
     display: block;
@@ -6,6 +7,8 @@
 .input2 {
     padding: 5px;
 }
+
+/* 8b */
 .text-b {
     display: inline-block;
     width: 250px;
@@ -15,6 +18,8 @@
     display: inline-block;
     vertical-align: middle;
 }
+
+/* 8c */
 .google {
     margin-top: 50px;
 }
@@ -30,6 +35,8 @@
     border: none;
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
+
+/* 8d */
 .name {
     display: inline-block;
     vertical-align: middle;
@@ -62,6 +69,8 @@
     border: none;
     border-radius: 10px;
 }
+
+/* 8e */
 .uber-box {
     width: 300px;
     font-family: Arial;

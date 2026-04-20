@@ -1,6 +1,9 @@
+/* 5a */
 .tahoma {
     font-family: Tahoma;
 }
+
+/* 5b */
 .big {
     font-family: Arial;
     font-weight: bold;
@@ -12,6 +15,8 @@
     color:red;
     font-style: italic;
 }
+
+/* 5c */
 .title1 {
     font-family: Verdana;
     font-weight: bold;
@@ -31,6 +36,8 @@
     background-color: green;
     color:white;
 }
+
+/* 5d */
 .shop {
     font-family: Arial;
     font-size: 24px;
@@ -45,6 +52,8 @@
     color:blue;
     cursor: pointer;
 }
+
+/* 5e */
 .new {
     font-family: Arial;
     color:orange;
@@ -74,6 +83,8 @@
     display: block;
 
 }
+
+/* 5f */
 .price2 {
     font-family: Arial;
     font-size: 24px;
@@ -95,6 +106,8 @@
     font-family: Arial;
     color: red;
 }
+
+/* 5g */
 .free {
     font-family: Arial;
     font-weight: bold;
